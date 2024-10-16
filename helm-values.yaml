@@ -1,0 +1,8 @@
+config:
+  websocket:
+    enabled: true
+    ingress:
+      enabled: true
+      className: nginx
+      hosts:
+        - nats.127.0.0.1.nip.io

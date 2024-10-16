@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.13.4/.schema/devbox.schema.json",
+  "packages": [
+    "natscli@0.1.5",
+    "kind@0.24.0",
+    "kubectl@1.31.0",
+    "kubernetes-helm@3.16.1",
+    "zellij@0.40.1"
+  ],
+  "shell": {
+    "init_hook": [],
+    "scripts":   {}
+  }
+}
