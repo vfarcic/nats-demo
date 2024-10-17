@@ -5,7 +5,8 @@
     "kind@0.24.0",
     "kubectl@1.31.0",
     "kubernetes-helm@3.16.1",
-    "zellij@0.40.1"
+    "zellij@0.40.1",
+    "gh@2.58.0"
   ],
   "shell": {
     "init_hook": [],
